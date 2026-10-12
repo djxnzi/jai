@@ -3,5 +3,5 @@
 #import "Basic";
 
 defaults :: struct {
-    build_path :: "build/xenocyte";
+    build_path :: "build/jai";
 }
